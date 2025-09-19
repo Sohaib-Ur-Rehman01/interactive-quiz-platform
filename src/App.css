@@ -28,6 +28,7 @@ body {
   border: 1px solid #ccc;
   border-radius: 4px;
   background: white;
+  color: black;
   cursor: pointer;
 }
 
@@ -146,6 +147,7 @@ body {
 .question-container h3 {
   font-size: 16px;
   font-weight: 500;
+  color: black;
 }
 .timer-container {
   display: flex;
