@@ -46,6 +46,10 @@ export default function UserForm({ onStart }) {
           <p>History, Geography, Sports</p>
           <p>Art, Music, Literature</p>
           <p>Mathematics, Science, Technology</p>
+          <p>
+            👉 You can play quizzes on *any topic* of your choice — not just the
+            examples above!
+          </p>
         </div>
         <div className="start">
           <button type="submit" className="start-button">
