@@ -28,12 +28,13 @@ body {
   border: 1px solid #ccc;
   border-radius: 4px;
   background: white;
-  color: black;
+  color: #004643;
   cursor: pointer;
 }
 
 .option:hover {
   background: #f0f0f0;
+  color: black;
 }
 
 .option.correct {
